@@ -48,7 +48,7 @@ Korzystamy z narzędzia `ocamlformat`.
 ## Modyfikowanie plików
 Prosimy o modyfikowanie jedynie:
 
-- `source/mod_student/typechecker.ml`
+- `source/mod_student/translator.ml`
 
 W przypadku zmian w pozostałych plikach Państwa rozwiązanie nie będzie akceptowane.
 
